@@ -1,3 +1,5 @@
+//Copyright (c) 2024 nguyenngocphung2000 and modified by htcminh
+
 const TOKEN = "BOT_TELEGRAM_TOKEN";
 const API_URL = `https://api.telegram.org/bot${TOKEN}`;
 const SHEET_ID = "SHEET_ID";
